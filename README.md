@@ -13,4 +13,9 @@ The dataset is taken from Kaggle https://www.kaggle.com/nehalbirla/vehicle-datas
 
 # Conclusion
 
+For our problem in file Car_Price_Prediciton.ipynb we found below information about CatBoost model, which came to be the best performing model.
+Thus we choose CatBoost model as our solution to the problem of data science project 'Car Price Prediction'.
 
+CatBoost
+
+Mean Accuracy 0.9375852759648472 Test Accuracy 0.9599371809608589 Mean Squared Error 0.3156590492636855
